@@ -1,1 +1,1 @@
-# JavaScript
+#This contains JavaScript examples
