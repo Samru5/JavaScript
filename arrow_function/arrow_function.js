@@ -1,7 +1,5 @@
 /*An arrow function expression is a syntactically compact alternative to a regular function expression*/
 
-const { multiplication } = require("npm-calculator-example-js");
-
 //Eg-1
 display=()=>"Hello World";
 console.log(display());
