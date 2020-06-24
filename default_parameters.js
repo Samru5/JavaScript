@@ -89,6 +89,6 @@ f10();                  //gives [200]
 //Eg-11
 function f11(num,a=[200]){
     console.log(num);       //gives 20
-    console.log(a);         //gives [200]
+    console.log(a);         //gives [105]
 }
 f11(20,[105]);
